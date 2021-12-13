@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/Layout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center"
+    tools:context="com.example.myapplication.MainActivity">
+
+    <com.ortiz.touchview.TouchImageView
+        android:id="@+id/imageView"
+        android:layout_width="960px"
+        android:layout_height="540px"
+        android:src="@drawable/map"
+        android:visibility="visible"
+        />
+
+
+    <com.ortiz.touchview.TouchImageView
+        android:id="@+id/G1"
+        android:layout_width="960px"
+        android:layout_height="540px"
+        android:visibility="invisible"
+        android:src="@drawable/g1" />
+
+    <com.ortiz.touchview.TouchImageView
+        android:id="@+id/G2"
+        android:layout_width="960px"
+        android:layout_height="540px"
+        android:visibility="invisible"
+        android:src="@drawable/g2" />
+
+    <com.ortiz.touchview.TouchImageView
+        android:id="@+id/B2"
+        android:layout_width="960px"
+        android:layout_height="540px"
+        android:src="@drawable/b2"
+        android:visibility="invisible" />
+
+
+    <com.ortiz.touchview.TouchImageView
+        android:id="@+id/B3"
+        android:layout_width="960px"
+        android:layout_height="540px"
+        android:src="@drawable/b3"
+        android:visibility="invisible" />
+
+    <Spinner
+        android:id="@+id/spinnerFrom"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="45dp"
+        android:layout_marginTop="-45dp"
+        android:background="@color/grey"
+        android:entries="@array/Ways" />
+
+    <Spinner
+        android:id="@+id/spinnerTo"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="top"
+        android:layout_marginStart="50dp"
+        android:layout_marginTop="-45dp"
+        android:layout_toEndOf="@+id/spinnerFrom"
+        android:background="@color/grey"
+        android:entries="@array/Ways" />
+
+    <Button
+        android:id="@+id/Load"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="55dp"
+        android:layout_marginTop="-60dp"
+        android:layout_marginEnd="29dp"
+        android:layout_toEndOf="@id/spinnerTo"
+        android:background="@color/grey"
+        android:text="Построить!"
+        android:textColor="@color/black"
+        android:textSize="10sp"
+        android:textStyle="bold" />
+
+
+
+</RelativeLayout>

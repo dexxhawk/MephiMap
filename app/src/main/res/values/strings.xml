@@ -1,0 +1,136 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string-array name = "Ways">
+        <item>G101</item>
+        <item>G102</item>
+        <item>G103</item>
+        <item>G104</item>
+        <item>G105</item>
+        <item>G106</item>
+        <item>G107</item>
+        <item>G108</item>
+        <item>G109</item>
+        <item>G109a</item>
+        <item>G110</item>
+        <item>G111</item>
+        <item>G113</item>
+        <item>G114</item>
+        <item>G115</item>
+        <item>G116</item>
+        <item>G117</item>
+        <item>G119</item>
+        <item>G120</item>
+        <item>G121</item>
+        <item>G122</item>
+        <item>G123</item>
+        <item>G123a</item>
+        <item>G124</item>
+        <item>G125</item>
+        <item>G126</item>
+        <item>G126a</item>
+        <item>G127</item>
+        <item>G128</item>
+        <item>G129</item>
+        <item>G130</item>
+        <item>G131</item>
+        <item>G132</item>
+
+        <item>G201</item>
+        <item>G202</item >
+        <item>G203</item>
+        <item>G203a</item>
+        <item>G204</item>
+        <item>G205</item>
+        <item>G206</item>
+        <item>G207</item>
+        <item>G208</item>
+        <item>G209</item>
+        <item>G209a</item>
+        <item>G210</item>
+        <item>G211</item>
+        <item>G213</item>
+        <item>G214</item>
+        <item>G215</item>
+        <item>G216</item>
+        <item>G217</item>
+        <item>G218</item>
+        <item>G219</item>
+        <item>G221</item>
+        <item>G223</item>
+        <item>G224</item>
+        <item>G225</item>
+        <item>G225a</item>
+        <item>G226</item>
+        <item>G226a</item>
+        <item>G227</item>
+        <item>G229</item>
+        <item>G230</item>
+        <item>G231</item>
+        <item>G232</item>
+        <item>G231</item>
+        <item>G232</item>
+        <item>G234</item>
+
+
+        <item>B201</item>
+        <item>B202</item>
+        <item>B203</item>
+        <item>B204</item>
+        <item>B205</item>
+        <item>B206</item>
+        <item>B207</item>
+        <item>B208</item>
+        <item>B210</item>
+        <item>B211</item>
+        <item>B212</item>
+        <item>B212st</item>
+        <item>B213</item>
+        <item>B214</item>
+        <item>B215</item>
+        <item>B216</item>
+        <item>B217</item>
+        <item>B218</item>
+        <item>B219</item>
+        <item>B220</item>
+        <item>B221</item>
+        <item>B222</item>
+
+        <item>B301</item>
+        <item>B303</item>
+        <item>B304</item>
+        <item>B306</item>
+        <item>B307</item>
+        <item>B308</item>
+        <item>B309</item>
+        <item>B310</item>
+        <item>B311</item>
+        <item>B312</item>
+        <item>B313</item>
+        <item>B314a</item>
+        <item>B315</item>
+        <item>B316</item>
+        <item>B317</item>
+        <item>B318</item>
+        <item>B319</item>
+        <item>B320</item>
+        <item>B322</item>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    </string-array>
+
+
+</resources>
